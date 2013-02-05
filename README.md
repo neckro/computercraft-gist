@@ -29,7 +29,7 @@ requests is also logged.
 
 To enable logging of requests, edit the `$log_file` variable at the top.
 
-REQUIREMENTS: Requires at least PHP 5.3, I think.  Developed with 5.4.
+REQUIREMENTS: Requires PHP 5.4.
 Must have `pecl_http` and `php5-curl` installed.  In Debian:
 `sudo apt-get install php5-dev php5-curl php-pear && sudo pecl install pecl_http`
 
